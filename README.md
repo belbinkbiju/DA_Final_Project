@@ -247,6 +247,20 @@ The project includes visualisations covering:
 
 The visualisations were selected based on their ability to support the analysis and final findings rather than simply increasing the number of charts.
 
+## 📊 Key Visualisations
+
+### Account Creation Trend
+![Accounts Created by Year](visualizations/accounts_created_by_year.png)
+
+### Customer Lifecycle
+![Customer Lifecycle](visualizations/customer_lifecycle.png)
+
+### Transaction Count vs Transaction Value
+![Transaction Count vs Transaction Value](visualizations/ransaction_count_vs_value.png)
+
+### Customer Engagement by Account Creation Cohort
+![Customer Engagement by Account Creation Cohort](visualizations/customer_engagement_by_cohort.png)
+
 ---
 
 ## ⚠️ Data & Analysis Considerations
